@@ -1,0 +1,3 @@
+A hard link is another directory entry pointing to the same inode (same data on disk).
+Both filenames share the same
+inode → deleting one doesn’t remove the data (as long as one hard link exists).
