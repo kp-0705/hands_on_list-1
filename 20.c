@@ -30,6 +30,13 @@ int main()
 /*
  Output:
 
-  
+dell@dell-Inspiron-3593:~/Desktop/MT2025059/Hands-on_List1$ ./a.out
+
+Enter New priority : 40
+
+Current priority is 0.
+
+After update : 19.
+ 
   
 */
